@@ -1,0 +1,7 @@
+.dado/cuadro {
+    display: flex;
+    width: 2rem;
+    height: 2rem;
+        
+
+}
